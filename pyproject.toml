@@ -52,7 +52,7 @@ Issues = "https://github.com/tqec/tqecd/issues"
 
 [dependency-groups]
 test = [
-    "pytest<=9.1.0",
+    "pytest<=9.2.0",
     "pytest-cov<=7.1.0",
 ]
 
